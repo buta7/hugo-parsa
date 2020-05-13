@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo Parsa</title>
+    <link>https://higebobo.github.io/hugo-parsa/tags/</link>
+    <description>Recent content in Tags on Hugo Parsa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
+    
+	<atom:link href="https://higebobo.github.io/hugo-parsa/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Article</title>
+      <link>https://higebobo.github.io/hugo-parsa/tags/article/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://higebobo.github.io/hugo-parsa/tags/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fashion</title>
+      <link>https://higebobo.github.io/hugo-parsa/tags/fashion/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://higebobo.github.io/hugo-parsa/tags/fashion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>https://higebobo.github.io/hugo-parsa/tags/finance/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://higebobo.github.io/hugo-parsa/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food</title>
+      <link>https://higebobo.github.io/hugo-parsa/tags/food/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://higebobo.github.io/hugo-parsa/tags/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>https://higebobo.github.io/hugo-parsa/tags/nature/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://higebobo.github.io/hugo-parsa/tags/nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philosophy</title>
+      <link>https://higebobo.github.io/hugo-parsa/tags/philosophy/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://higebobo.github.io/hugo-parsa/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://higebobo.github.io/hugo-parsa/tags/photos/</link>
+      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
+      
+      <guid>https://higebobo.github.io/hugo-parsa/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
