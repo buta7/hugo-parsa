@@ -59,6 +59,14 @@ git push -u origin master
 
 Github>Settings>Gighub Pages>Source>master branch/docs folder
 
+## 既存のレポジトリからクローンする場合
+
+```shell
+git clone git@github.com:higebobo/hugo-parsa.git higebobo-parsa
+cd higebobo-parsa
+git submodule update --init --recursive
+```
+
 ## Link
 
 * [Parsa Hugo Personal Blog Theme \| Hugo Themes](https://themes.gohugo.io/parsa-hugo-personal-blog-theme/)
