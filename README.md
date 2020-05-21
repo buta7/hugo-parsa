@@ -42,7 +42,6 @@ baseURL = "https://higebobo.github.io/hugo-parsa/"
 languageCode = "ja"
 title = "Hugo Parsa"
 theme = "parsa-hugo"
-publishDir = "docs"
 ```
 
 > github pagesやnetlifyで使う場合はbaseURLのプロトコルはhttpsにすること
@@ -57,7 +56,12 @@ git commit -m 'init'
 git push -u origin master
 ```
 
-Github>Settings>Gighub Pages>Source>master branch/docs folder
+## Github Actionsの利用
+
+* .github/workflows/gh-pages.yamlを作成
+    * ソースはmasterブランチ
+    * 出力はpublicフォルダの内容をgh-pagesブランチ
+        * Github>Settings>Gighub Pages>Source>gh-pages branch
 
 ## 既存のレポジトリからクローンする場合
 
