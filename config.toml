@@ -1,5 +1,5 @@
 # default config
-baseURL = "https://higebobo.github.io/hugo-parsa/"
+baseURL = "https://buta7.github.io/hugo-parsa/"
 languageCode = "ja"
 title = "Hugo Parsa"
 theme = "parsa-hugo"
